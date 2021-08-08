@@ -1,6 +1,3 @@
-# citizen_feedback
-
-A OAG GIZ Flutter project.
 
 ## Getting Started
 
